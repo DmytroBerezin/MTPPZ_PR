@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\bin\Debug\net8.0\LB3_Homework.exe
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\bin\Debug\net8.0\LB3_Homework.deps.json
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\bin\Debug\net8.0\LB3_Homework.runtimeconfig.json
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\bin\Debug\net8.0\LB3_Homework.dll
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\bin\Debug\net8.0\LB3_Homework.pdb
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\obj\Debug\net8.0\LB3_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\obj\Debug\net8.0\LB3_Homework.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\obj\Debug\net8.0\LB3_Homework.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\obj\Debug\net8.0\LB3_Homework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\obj\Debug\net8.0\LB3_Homework.dll
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\obj\Debug\net8.0\refint\LB3_Homework.dll
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\obj\Debug\net8.0\LB3_Homework.pdb
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\obj\Debug\net8.0\LB3_Homework.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\LB3_Homework\LB3_Homework\obj\Debug\net8.0\ref\LB3_Homework.dll

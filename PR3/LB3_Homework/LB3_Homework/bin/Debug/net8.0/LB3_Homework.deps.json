@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LB3_Homework/1.0.0": {
+        "runtime": {
+          "LB3_Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LB3_Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
