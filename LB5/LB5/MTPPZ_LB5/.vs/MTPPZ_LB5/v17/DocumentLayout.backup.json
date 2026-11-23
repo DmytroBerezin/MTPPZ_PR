@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\MTPPZ_LB5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2155F272-9C75-4D47-A6A6-EEF0AF93433F}|MTPPZ_LB5\\MTPPZ_LB5.csproj|c:\\users\\asus\\source\\repos\\mtppz_lb5\\mtppz_lb5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2155F272-9C75-4D47-A6A6-EEF0AF93433F}|MTPPZ_LB5\\MTPPZ_LB5.csproj|solutionrelative:mtppz_lb5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MTPPZ_LB5\\MTPPZ_LB5\\Program.cs",
+              "RelativeDocumentMoniker": "MTPPZ_LB5\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MTPPZ_LB5\\MTPPZ_LB5\\Program.cs",
+              "RelativeToolTip": "MTPPZ_LB5\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T22:20:39.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
