@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MTPPZ_LB9_homework/1.0.0": {
+        "runtime": {
+          "MTPPZ_LB9_homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MTPPZ_LB9_homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
