@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\bin\Debug\net8.0\MTPPZ_LB7.exe
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\bin\Debug\net8.0\MTPPZ_LB7.deps.json
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\bin\Debug\net8.0\MTPPZ_LB7.runtimeconfig.json
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\bin\Debug\net8.0\MTPPZ_LB7.dll
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\bin\Debug\net8.0\MTPPZ_LB7.pdb
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\obj\Debug\net8.0\MTPPZ_LB7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\obj\Debug\net8.0\MTPPZ_LB7.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\obj\Debug\net8.0\MTPPZ_LB7.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\obj\Debug\net8.0\MTPPZ_LB7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\obj\Debug\net8.0\MTPPZ_LB7.dll
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\obj\Debug\net8.0\refint\MTPPZ_LB7.dll
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\obj\Debug\net8.0\MTPPZ_LB7.pdb
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\obj\Debug\net8.0\MTPPZ_LB7.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\MTPPZ_LB7\MTPPZ_LB7\obj\Debug\net8.0\ref\MTPPZ_LB7.dll
