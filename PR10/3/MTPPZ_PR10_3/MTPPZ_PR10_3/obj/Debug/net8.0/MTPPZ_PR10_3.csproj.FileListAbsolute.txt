@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\bin\Debug\net8.0\MTPPZ_PR10_3.exe
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\bin\Debug\net8.0\MTPPZ_PR10_3.deps.json
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\bin\Debug\net8.0\MTPPZ_PR10_3.runtimeconfig.json
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\bin\Debug\net8.0\MTPPZ_PR10_3.dll
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\bin\Debug\net8.0\MTPPZ_PR10_3.pdb
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\obj\Debug\net8.0\MTPPZ_PR10_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\obj\Debug\net8.0\MTPPZ_PR10_3.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\obj\Debug\net8.0\MTPPZ_PR10_3.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\obj\Debug\net8.0\MTPPZ_PR10_3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\obj\Debug\net8.0\MTPPZ_PR10_3.dll
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\obj\Debug\net8.0\refint\MTPPZ_PR10_3.dll
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\obj\Debug\net8.0\MTPPZ_PR10_3.pdb
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\obj\Debug\net8.0\MTPPZ_PR10_3.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\MTPPZ_PR10_3\MTPPZ_PR10_3\obj\Debug\net8.0\ref\MTPPZ_PR10_3.dll

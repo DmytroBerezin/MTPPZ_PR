@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\MTPPZ_PR10_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1725753F-ADF0-4F7D-A1EA-76B56BF6F679}|MTPPZ_PR10_3\\MTPPZ_PR10_3.csproj|c:\\users\\asus\\source\\repos\\mtppz_pr10_3\\mtppz_pr10_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1725753F-ADF0-4F7D-A1EA-76B56BF6F679}|MTPPZ_PR10_3\\MTPPZ_PR10_3.csproj|solutionrelative:mtppz_pr10_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MTPPZ_PR10_3\\MTPPZ_PR10_3\\Program.cs",
+              "RelativeDocumentMoniker": "MTPPZ_PR10_3\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MTPPZ_PR10_3\\MTPPZ_PR10_3\\Program.cs",
+              "RelativeToolTip": "MTPPZ_PR10_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T08:37:47.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
