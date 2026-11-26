@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\bin\Debug\net8.0\MTPPZ_LB10.exe
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\bin\Debug\net8.0\MTPPZ_LB10.deps.json
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\bin\Debug\net8.0\MTPPZ_LB10.runtimeconfig.json
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\bin\Debug\net8.0\MTPPZ_LB10.dll
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\bin\Debug\net8.0\MTPPZ_LB10.pdb
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\obj\Debug\net8.0\MTPPZ_LB10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\obj\Debug\net8.0\MTPPZ_LB10.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\obj\Debug\net8.0\MTPPZ_LB10.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\obj\Debug\net8.0\MTPPZ_LB10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\obj\Debug\net8.0\MTPPZ_LB10.dll
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\obj\Debug\net8.0\refint\MTPPZ_LB10.dll
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\obj\Debug\net8.0\MTPPZ_LB10.pdb
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\obj\Debug\net8.0\MTPPZ_LB10.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\MTPPZ_LB10\MTPPZ_LB10\obj\Debug\net8.0\ref\MTPPZ_LB10.dll
