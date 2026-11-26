@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\bin\Debug\net8.0\MTPPZ_LB8_homework.exe
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\bin\Debug\net8.0\MTPPZ_LB8_homework.deps.json
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\bin\Debug\net8.0\MTPPZ_LB8_homework.runtimeconfig.json
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\bin\Debug\net8.0\MTPPZ_LB8_homework.dll
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\bin\Debug\net8.0\MTPPZ_LB8_homework.pdb
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\obj\Debug\net8.0\MTPPZ_LB8_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\obj\Debug\net8.0\MTPPZ_LB8_homework.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\obj\Debug\net8.0\MTPPZ_LB8_homework.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\obj\Debug\net8.0\MTPPZ_LB8_homework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\obj\Debug\net8.0\MTPPZ_LB8_homework.dll
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\obj\Debug\net8.0\refint\MTPPZ_LB8_homework.dll
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\obj\Debug\net8.0\MTPPZ_LB8_homework.pdb
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\obj\Debug\net8.0\MTPPZ_LB8_homework.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\MTPPZ_LB8_homework\MTPPZ_LB8_homework\obj\Debug\net8.0\ref\MTPPZ_LB8_homework.dll

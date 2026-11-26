@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTPPZ_LB8_homework", "MTPPZ_LB8_homework\MTPPZ_LB8_homework.csproj", "{CAAFBBD2-D5C8-421F-A747-6AF15D9AAA41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAAFBBD2-D5C8-421F-A747-6AF15D9AAA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAFBBD2-D5C8-421F-A747-6AF15D9AAA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAFBBD2-D5C8-421F-A747-6AF15D9AAA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAFBBD2-D5C8-421F-A747-6AF15D9AAA41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93E0CDA4-EA61-49BB-B290-42490BD32318}
+	EndGlobalSection
+EndGlobal
